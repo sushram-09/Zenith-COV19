@@ -1,4 +1,4 @@
-# Social Distancing and Mark Detection
+# Social Distancing and Mask Detection
 The world today is shaken  by the deadly virus that has bought the fast moving lives of today's modern society to an absolute stand still.
 Two science-backed methods to limit the spread of the raging infection are 
 * Maintaining social distance
