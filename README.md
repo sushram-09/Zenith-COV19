@@ -11,4 +11,4 @@ We created a program that utilizes Artificial Network to check if the social dis
 ## Technology Stack
 <img width="316" alt="Capture" src="https://user-images.githubusercontent.com/68152189/124361857-05a29400-dc4f-11eb-98df-b4b2b6d0df41.PNG">
 
-
+[Mask Detection Dataset](https://www.kaggle.com/shantanu1118/face-mask-detection-dataset-with-4k-samples).
