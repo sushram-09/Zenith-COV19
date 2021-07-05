@@ -13,3 +13,6 @@ We created a program that utilizes Artificial Network to check if the social dis
 
 ## Face Mask Detection
 [Mask Detection Dataset](https://www.kaggle.com/shantanu1118/face-mask-detection-dataset-with-4k-samples).
+
+## Output 
+<img width="544" alt="Capture" src="https://user-images.githubusercontent.com/68152189/124362960-07bc2100-dc56-11eb-9636-cbe3abe7edcd.PNG">
